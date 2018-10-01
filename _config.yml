@@ -11,3 +11,5 @@ collections:
 source: src
 destination: dist
 permalink: "/:categories/:title"
+
+theme: jekyll-theme-minimal
